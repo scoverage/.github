@@ -9,7 +9,7 @@ Welcome to `scoverage`, a collection of tools to measure code coverage for [scal
 - [scalac-scoverage-plugin][] - the compiler plugin for Scala 2 and lots of other utilities (e.g. the report writers) that are used by the tools
 - [sbt-scoverage][] - the [sbt][] plugin
 - [gradle-scoverage][] - the [gradle][] plugin
-- [maven-scoverage-plugin][] - the [maven][]
+- [scoverage-maven-plugin][] - the [maven][]
 - [sbt-coveralls][] - the sbt plugin to upload scoverage reports to [coveralls][]
 - [sbt-scoverage-examples][] - example reports, which show how to use scoverage
 
