@@ -6,7 +6,7 @@ Welcome to `scoverage`, a collection of tools to measure code coverage for [scal
 
 `scoverage` features/repositories ...
 
-- [scalac-scoverage-plugin][] - the compiler plugin for Scala 2 and lots of other utilities (e.g. the report writers) that is used by the tools
+- [scalac-scoverage-plugin][] - the compiler plugin for Scala 2 and lots of other utilities (e.g. the report writers) that are used by the tools
 - [sbt-scoverage][] - the [sbt][] plugin
 - [gradle-scoverage][] - the [gradle][] plugin
 - [maven-scoverage-plugin][] - the [maven][]
@@ -15,10 +15,13 @@ Welcome to `scoverage`, a collection of tools to measure code coverage for [scal
 
 [coveralls]: https://coveralls.io/
 [gradle]: https://gradle.org/ 
+[gradle-scoverage]: https://github.com/scoverage/gradle-scoverage
 [maven]: https://maven.apache.org/
 [report]: images/report.png
 [sbt-coveralls]: https://github.com/scoverage/sbt-coveralls
-[sbt-coveralls]: https://github.com/scoverage/sbt-scoverage-examples
+[sbt-scoverage]: https://github.com/scoverage/sbt-scoverage
+[sbt-scoverage-examples]: https://github.com/scoverage/sbt-scoverage-examples
 [sbt]: https://www.scala-sbt.org/
 [scala]: https://www.scala-lang.org/
 [scalac-scoverage-plugin]: https://github.com/scoverage/scalac-scoverage-plugin
+[scoverage-maven-plugin]: https://github.com/scoverage/scoverage-maven-plugin
