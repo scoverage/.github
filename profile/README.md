@@ -1,27 +1,19 @@
 # scoverage - Scala Code Coverage Tools
 
+[![Gitter](https://img.shields.io/gitter/room/scoverage/scoverage.svg)](https://gitter.im/scoverage/scoverage)
+
 ![report][]
 
-Welcome to `scoverage`, a collection of tools to measure code coverage for [scala][] code.
+Welcome to `scoverage`, a collection of tools to measure code coverage for [Scala][] code.
 
-`scoverage` features/repositories ...
+If you have any questions, please feel free to ask them on [Gitter][].
 
-- [scalac-scoverage-plugin][] - the compiler plugin for Scala 2 and lots of other utilities (e.g. the report writers) that are used by the tools
-- [sbt-scoverage][] - the [sbt][] plugin
-- [gradle-scoverage][] - the [gradle][] plugin
-- [scoverage-maven-plugin][] - the [maven][]
-- [sbt-coveralls][] - the sbt plugin to upload scoverage reports to [coveralls][]
-- [sbt-scoverage-examples][] - example reports, which show how to use scoverage
+* [Introduction and Overview][introduction]
+* [Getting Started][getting-started]
+* [Contributing][contributing]
 
-[coveralls]: https://coveralls.io/
-[gradle]: https://gradle.org/ 
-[gradle-scoverage]: https://github.com/scoverage/gradle-scoverage
-[maven]: https://maven.apache.org/
-[report]: images/report.png
-[sbt-coveralls]: https://github.com/scoverage/sbt-coveralls
-[sbt-scoverage]: https://github.com/scoverage/sbt-scoverage
-[sbt-scoverage-examples]: https://github.com/scoverage/sbt-scoverage-examples
-[sbt]: https://www.scala-sbt.org/
-[scala]: https://www.scala-lang.org/
-[scalac-scoverage-plugin]: https://github.com/scoverage/scalac-scoverage-plugin
-[scoverage-maven-plugin]: https://github.com/scoverage/scoverage-maven-plugin
+[introduction]: ./docs/Introduction.md
+[getting-started]: ./docs/Getting-Started.md
+[contributing]: ./docs/Contributing.md
+[Scala]: https://www.scala-lang.org/
+
