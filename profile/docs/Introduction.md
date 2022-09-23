@@ -41,6 +41,7 @@ with [3.2][merged-into-dotty]).
 - Scoverage and [SonarQube][]
 - Scoverage [Tutorial][] (old)
 - Scoverage [Talk][] (new)
+- Developer Chat on [Gitter][]
 
 [AST]: https://en.wikipedia.org/wiki/Abstract_syntax_tree
 [coveralls]: https://coveralls.io/
@@ -51,7 +52,6 @@ with [3.2][merged-into-dotty]).
 [maven]: https://maven.apache.org/
 [merged-into-dotty]: https://dotty.epfl.ch/docs/internals/coverage.html
 [mill]: https://com-lihaoyi.github.io/mill/mill/0.9.9/Contrib_Modules.html#_scoverage
-[report]: images/report.png
 [sbt-coveralls]: https://github.com/scoverage/sbt-coveralls
 [sbt-scoverage]: https://github.com/scoverage/sbt-scoverage
 [sbt-scoverage-examples]: https://github.com/scoverage/sbt-scoverage-examples
