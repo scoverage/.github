@@ -13,10 +13,10 @@ If you have any questions, please feel free to ask them on [Gitter][].
 * [Getting Started][getting-started]
 * [Contributing][contributing]
 
-[introduction]: ./docs/Introduction.md
-[getting-started]: ./docs/Getting-Started.md
+[introduction]: https://github.com/scoverage/.github/blob/main/profile/docs/Introduction.md
+[getting-started]: https://github.com/scoverage/.github/blob/main/profile/docs/Getting-Started.md
 [Gitter]: https://gitter.im/scoverage/scoverage
-[contributing]: ./docs/Contributing.md
-[report]: ./images/report.png
+[contributing]: https://github.com/scoverage/.github/blob/main/profile/docs/Contributing.md
+[report]: https://raw.githubusercontent.com/scoverage/.github/main/profile/images/report.png
 [Scala]: https://www.scala-lang.org/
 
